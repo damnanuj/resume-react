@@ -1,3 +1,7 @@
+# PS : Experience and achievements section are AI genereated, rest everything is correct about me.
+
+![image](https://github.com/damnanuj/resume-react/assets/106218844/7a788843-98fe-46a1-999d-82bc028b5b02)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
