@@ -9,7 +9,7 @@ const skillsData = {
 }
 const educationData =[
     {
-        course : "Bsc",
+        course : "Bsc-Mathematics",
         institute : "JPU",
         year : "2023",
         branch : "science"
