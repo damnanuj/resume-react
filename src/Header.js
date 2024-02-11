@@ -11,6 +11,7 @@
             <div className= "contactDetails"> 
                 <b>Email : anujkrgupta21@gmail.com</b>
                 <b>Mob : +91 7979746435</b>
+                <b><a href="https://github.com/damnanuj">GitHub</a></b>
             </div>
         </div>
     )

@@ -1,4 +1,4 @@
-## PS : Experience and achievements sections are AI-generated; everything else is correct.
+## PS : Experience, achievements sections & project keyPoints are AI-generated.
 [Live view](https://resume-damnanuj.vercel.app/)
 
 ![image](https://github.com/damnanuj/resume-react/assets/106218844/7a788843-98fe-46a1-999d-82bc028b5b02)
